@@ -34,3 +34,33 @@
 - Guides on how to perform specific tasks on the platform
 - Step-by-step instructions with screenshots and videos
 - Common use cases and how to handle them
+
+## How-Tos
+- Step-by-step instructions on how to perform specific tasks
+- Frequently Asked Questions
+- Troubleshooting guides for common issues
+
+
+
+## Resources
+- Training materials for users
+- Access to learning resources such as courses, tutorials, webinars, and videos
+- Community forum for users to collaborate and share knowledge
+- Knowledgebase with articles, tips, and tricks
+
+## Events
+- Upcoming learning or community event
+- Calendar of events
+- Past Events (& materials)
+- Competitions - Internal & External
+
+## Support
+- Contact information for support teams
+- Procedure for raising a support ticket
+- Response times or SLA for support tickets
+- How to get help
+- How you can help
+
+## Next Steps
+- How to get started
+- Call-to-action for users to start using the platform.
